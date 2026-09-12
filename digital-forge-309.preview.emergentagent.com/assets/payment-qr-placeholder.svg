@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Payment QR placeholder">
+  <rect width="160" height="160" rx="12" fill="#0f172a"/>
+  <g fill="#67e8f9" opacity=".82">
+    <rect x="18" y="18" width="38" height="38" rx="3"/><rect x="26" y="26" width="22" height="22" fill="#0f172a"/><rect x="32" y="32" width="10" height="10"/>
+    <rect x="104" y="18" width="38" height="38" rx="3"/><rect x="112" y="26" width="22" height="22" fill="#0f172a"/><rect x="118" y="32" width="10" height="10"/>
+    <rect x="18" y="104" width="38" height="38" rx="3"/><rect x="26" y="112" width="22" height="22" fill="#0f172a"/><rect x="32" y="118" width="10" height="10"/>
+    <path d="M70 20h10v10H70zM84 20h8v18h-8zM66 42h18v8H66zM96 64h12v12H96zM112 68h8v18h-8zM128 64h12v8h-12zM68 64h14v10H68zM84 80h12v12H84zM66 96h10v18H66zM82 100h8v8h-8zM94 96h20v8H94zM120 92h10v16h-10zM134 112h8v24h-8zM98 116h12v12H98zM74 124h12v12H74z"/>
+  </g>
+  <text x="80" y="153" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="7">REPLACE ASSET</text>
+</svg>
